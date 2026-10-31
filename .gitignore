@@ -9,3 +9,7 @@ Desktop.ini
 # Archivos temporales de editor
 *.swp
 *.tmp
+
+# Java compilado
+java/bin/
+*.class
